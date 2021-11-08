@@ -336,6 +336,7 @@ p{
    grid-template-columns:1fr 1fr;
    height:500px;
    margin-bottom:100px;
+   
   
 }
 #calculation-box{
@@ -411,6 +412,27 @@ p{
     margin-left:50px;
     
 }
-#feature:active {  background: linear-gradient(
+#feature:active {
+      background: linear-gradient(
     120deg,#5ad0ff 0%,#3224e9 100%);
-        color:white;}
+        color:white;
+}
+/* style cards reference cards */
+ .card_contaner{
+   
+    padding:55px 15px 15px 15px;
+    margin-bottom:40px;
+    display:flex;
+    position:absolute;
+    align-items:center;
+    justify-content:center;
+
+ }   
+ #avtar{
+     width:150px; height:150px;
+     background-color:antiquewhite;
+     border-radius: 100%;
+     z-index:4;
+     position:relative;
+     top:-70px;left:-70px;
+ } 
