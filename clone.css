@@ -417,16 +417,16 @@ p{
     120deg,#5ad0ff 0%,#3224e9 100%);
         color:white;
 }
-/* style cards reference cards */
+/* style cards referrence cards */
  .card_contaner{
    
     padding:55px 15px 15px 15px;
-    margin-bottom:40px;
+    margin-bottom:60px;
     display:flex;
     position:absolute;
     align-items:center;
     justify-content:center;
-
+    
  }   
  #avtar{
      width:150px; height:150px;
@@ -436,3 +436,6 @@ p{
      position:relative;
      top:-70px;left:-70px;
  } 
+ #laborator:hover{
+     img src="https://zoancash.com/wp-content/uploads/2018/11/Client_2_laborator.png"
+ }
