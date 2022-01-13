@@ -1,2 +1,4 @@
 # ZoanCashClone
-this is a clone website of https://zoancash.com/
+https://anmishra-a.github.io/ZoanCashClone/
+please vesit this link for preview
+
